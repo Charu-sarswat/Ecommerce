@@ -1,0 +1,2 @@
+for video
+  <video autoplay muted loop src="video_preview_h264.mp4"></video>
